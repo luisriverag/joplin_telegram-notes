@@ -1,6 +1,9 @@
-Get your bot KEY from botfather at https://telegram.me/BotFather
+Add .env with TELEGRAMBOT_ML_TOKEN and JOPLIN_TOKEN
 
-Messages and files you send will be stored in notes
+Get your bot KEY from botfather at https://telegram.me/BotFather
+GET your Joplin key from "Web Clipper" section in settings
+
+Messages and files you send will be stored as Joplin notes
 
 Type /search to find stuff
 
