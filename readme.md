@@ -10,6 +10,7 @@ To install
 1. Add .env with TELEGRAMBOT_ML_TOKEN and JOPLIN_TOKEN
 
 Get your bot KEY from botfather at https://telegram.me/BotFather
+
 GET your Joplin key from "Web Clipper" section in settings
 
 2. Add libraries
